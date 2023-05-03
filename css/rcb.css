@@ -1,0 +1,27 @@
+fieldset{
+    width: 700px;
+}
+h4{
+    text-align: left;
+}
+input{
+    text-align: left;
+}
+fieldset{
+    width: 250px;
+}
+h4{
+    register now color: blue;
+}
+h5{
+    align-items: flex-end;
+}
+#one{
+    margin-left: 150px;
+}
+#two{
+    margin-right: 30px;
+}
+#one{
+    margin-left: 20px;
+}
